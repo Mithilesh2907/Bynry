@@ -1,0 +1,10 @@
+{
+  "company1": {
+    "tenant_id": "tenant-001",
+    "tenant_name": "Company One"
+  },
+  "company2": {
+    "tenant_id": "tenant-002",
+    "tenant_name": "Company Two"
+  }
+}

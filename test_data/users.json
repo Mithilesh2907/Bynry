@@ -1,0 +1,10 @@
+{
+  "tenant1_admin": {
+    "email": "admin@company1.com",
+    "password": "password123"
+  },
+  "tenant2_admin": {
+    "email": "admin@company2.com",
+    "password": "password123"
+  }
+}
